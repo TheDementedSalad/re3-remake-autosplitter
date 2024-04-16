@@ -1,0 +1,63 @@
+<Settings>
+    <Setting Id="Rac1"  Label="Raccoon City 1" State="false">
+		<Setting Id="Event_EV023"  Label="Escaped Apartments" State="false"/>
+		<Setting Id="Event_EV101"  Label="Enter Bar Jack" State="false"/>
+		<Setting Id="Map_21"  Label="Meet Dario" State="false"/>
+		<Setting Id="Map_26"  Label="Enter Parking Garage" State="false"/>
+		<Setting Id="Event_EV320"  Label="Meet Mikhail" State="false"/>
+		<Setting Id="Event_EV302"  Label="Tall Drink of Water" State="false"/>
+		<Setting Id="Map_203"  Label="Enter Kitebros" State="false"/>
+		<Setting Id="Item_181"  Label="Fire Hose" State="false"/>
+		<Setting Id="Item_152"  Label="Boltcutters" State="false"/>
+		<Setting Id="Event_EV321"  Label="Meet Murphy" State="false"/>
+	</Setting>
+	<Setting Id="Rac2"  Label="Raccoon City 2" State="false">
+		<Setting Id="Map_199"  Label="Enter the Substation" State="false"/>
+		<Setting Id="Item_185"  Label="Lockpick (In A Box)" State="false"/>
+		<Setting Id="Event_EV325"  Label="Finish the Substation" State="false"/>
+		<Setting Id="Map_204"  Label="Enter Kitebros Control Room" State="false"/>
+		<Setting Id="Event_EV331"  Label="Enter the Sewers" State="false"/>
+		<Setting Id="Item_186"  Label="Battery Pack" State="false"/>
+		<Setting Id="Event_EV380"  Label="Escaped Sewers" State="false"/>
+		<Setting Id="Event_EV334"  Label="Defeat Nemmy 1" State="false"/>
+		<Setting Id="Map_124"  Label="Enter Kendo's Shop" State="false"/>
+		<Setting Id="Item_182"  Label="Kendo's Gate Key" State="false"/>
+		<Setting Id="Event_EV341"  Label="Back to the Train Station" State="false"/>
+	</Setting>
+	<Setting Id="Police"  Label="RPD Station" State="false">
+		<Setting Id="Event_EV820"  Label="Start RPD" State="false"/>
+		<Setting Id="Item_162"  Label="Key" State="false"/>
+		<Setting Id="Item_161"  Label="Battery" State="false"/>
+		<Setting Id="Item_165"  Label="Electronic Gadget" State="false"/>
+		<Setting Id="Event_EV220"  Label="Enter STARS RPD Office" State="false"/>
+	</Setting>
+	<Setting Id="Clock"  Label="Clocktower" State="false">
+		<Setting Id="Map_240"  Label="Exit Subway Tunnel" State="false"/>
+		<Setting Id="Event_EV385"  Label="Defeat Nemmy 2" State="false"/>
+	</Setting>
+	<Setting Id="Hosp"  Label="Hospital" State="false">
+		<Setting Id="Item_214"  Label="Tape Player" State="false"/>
+		<Setting Id="Item_218"  Label="Locker Key" State="false"/>
+		<Setting Id="Item_211"  Label="Hospital ID Card" State="false"/>
+		<Setting Id="Item_213"  Label="Audiocassette Tape" State="false"/>
+		<Setting Id="Item_215"  Label="Vaccine Base" State="false"/>
+		<Setting Id="ItemR_217"  Label="Placed Explosives" State="false"/>
+	</Setting>
+	<Setting Id="Under"  Label="Underground Storage" State="false">
+		<Setting Id="Map_294"  Label="Get On Elevator" State="false"/>
+		<Setting Id="Item_222"  Label="Fuse 3" State="false"/>
+		<Setting Id="Item_224"  Label="Fuse 1" State="false"/>
+		<Setting Id="Item_223"  Label="Fuse 2" State="false"/>
+	</Setting>
+	<Setting Id="Nest"  Label="NEST 2" State="false">
+		<Setting Id="Event_EV510"  Label="Reach NEST 2" State="false"/>
+		<Setting Id="Item_232"  Label="Flash Drive" State="false"/>
+		<Setting Id="Item_234"  Label="Culture Sample" State="false"/>
+		<Setting Id="Item_235"  Label="Liquid-filled Test Tube" State="false"/>
+		<Setting Id="Item_236"  Label="Vaccine Base" State="false"/>
+		<Setting Id="Item_233"  Label="Vaccine" State="false"/>
+		<Setting Id="Event_EV540"  Label="Defeat Nemmy 3" State="false"/>
+		<Setting Id="Event_EV560"  Label="Defeat Nemmy 4" State="false"/>
+		<Setting Id="End"  Label="Final Split (Always Active)" State="false"/>
+	</Setting>
+</Settings>
