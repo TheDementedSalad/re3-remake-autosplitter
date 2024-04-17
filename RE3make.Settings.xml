@@ -41,6 +41,7 @@
 		<Setting Id="Item_211"  Label="Hospital ID Card" State="false"/>
 		<Setting Id="Item_213"  Label="Audiocassette Tape" State="false"/>
 		<Setting Id="Item_215"  Label="Vaccine Sample" State="false"/>
+		<Setting Id="Event_EV415"  Label="Inject Jill" State="false"/>
 		<Setting Id="ItemR_217"  Label="Placed Explosives" State="false"/>
 	</Setting>
 	<Setting Id="Under"  Label="Underground Storage" State="false">
