@@ -1,4 +1,7 @@
 <Settings>
+		<Setting Id="NoInt"  Label="Enable No Intro" State="false">
+			<Setting Id="NoIntHard"  Label="Timer Offset For Nightmare/Inferno" State="false"/>
+		</Setting>
     <Setting Id="Rac1"  Label="Raccoon City 1" State="false">
 		<Setting Id="Event_EV023"  Label="Escaped Apartments" State="false"/>
 		<Setting Id="Event_EV101"  Label="Enter Bar Jack" State="false"/>
