@@ -60,6 +60,7 @@
 		<Setting Id="Item_235"  Label="Liquid-filled Test Tube" State="false"/>
 		<Setting Id="Item_236"  Label="Vaccine Base" State="false"/>
 		<Setting Id="Item_233"  Label="Vaccine" State="false"/>
+		<Setting Id="Event_EV520"  Label="Start Nemmy 3" State="false"/>
 		<Setting Id="Event_EV540"  Label="Defeat Nemmy 3" State="false"/>
 		<Setting Id="Event_EV560"  Label="Defeat Nemmy 4" State="false"/>
 		<Setting Id="End"  Label="Final Split (Always Active)" State="false"/>
