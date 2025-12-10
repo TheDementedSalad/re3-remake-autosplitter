@@ -21,7 +21,7 @@
 		<Setting Id="Map_204"  Label="Enter Kitebros Control Room" State="false"/>
 		<Setting Id="Event_EV331"  Label="Enter the Sewers" State="false"/>
 		<Setting Id="Item_186"  Label="Battery Pack" State="false"/>
-		<Setting Id="Event_EV380"  Label="Escaped Sewers" State="false"/>
+		<Setting Id="Map_162"  Label="Escaped Sewers" State="false"/>
 		<Setting Id="Event_EV334"  Label="Defeat Nemmy 1" State="false"/>
 		<Setting Id="Map_124"  Label="Enter Kendo's Shop" State="false"/>
 		<Setting Id="Item_182"  Label="Kendo's Gate Key" State="false"/>
